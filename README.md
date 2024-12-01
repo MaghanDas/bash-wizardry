@@ -1,6 +1,6 @@
 # bash-wizardry
 # Bash Wizardry 🧙‍♂️  
-A collection of **Bash scripting magic**—perfect for automating tasks, managing systems, and leveling up your terminal skills.
+A collection of **Bash Shell scripting magic**—perfect for automating tasks, managing systems, and leveling up your terminal skills.
 
 ## 🚀 About the Repo  
 This repository contains my journey into **Bash scripting**, featuring a variety of scripts that cover:  
