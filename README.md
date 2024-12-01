@@ -16,9 +16,8 @@ Whether you're new to Bash or looking for inspiration, you'll find something hel
 ## 📂 Folder Structure  
 ```plaintext
 .
-├── basics/        # Introduction to Bash syntax, variables, and operators
-├── loops/         # For loops, while loops, and nested loops
+├── Basics/        # Introduction to Bash syntax, variables, and operators
+├── Loops/         # For loops, while loops, and nested loops
 ├── conditionals/  # If-else, elif, and case statements
 ├── filters/       # Bash filters like grep, cut, sort, wc, etc.
 ├── projects/      # Real-world use cases and mini-projects
-└── utils/         # Handy utility scripts
