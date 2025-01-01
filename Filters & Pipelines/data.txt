@@ -1,0 +1,5 @@
+
+maghan,79,hyderabad,21
+parkash,34,shujawal,22
+arbab,28,hyderabad,23
+talha,37,tandoAllahYar,25

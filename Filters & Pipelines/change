@@ -1,0 +1,5 @@
+
+#echo $1 | tr a-z A-Z
+echo $1 | tr A-Z a-z
+
+	
